@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Go Dot Dodge Creeps", "Go Dot Dodge Creeps.csproj", "{776FE2A9-BAC0-483B-99A2-0760AAE852BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{776FE2A9-BAC0-483B-99A2-0760AAE852BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776FE2A9-BAC0-483B-99A2-0760AAE852BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776FE2A9-BAC0-483B-99A2-0760AAE852BD}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{776FE2A9-BAC0-483B-99A2-0760AAE852BD}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{776FE2A9-BAC0-483B-99A2-0760AAE852BD}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{776FE2A9-BAC0-483B-99A2-0760AAE852BD}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
